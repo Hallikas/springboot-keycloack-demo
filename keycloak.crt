@@ -1,0 +1,102 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = gamehost.fi
+   i:C = US, O = Let's Encrypt, CN = R3
+-----BEGIN CERTIFICATE-----
+MIIHwDCCBqigAwIBAgISA86OKMwvprjaJVGUT+4Ob9vEMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMTYyMzMwMzBaFw0yMjAzMTYyMzMwMjlaMBYxFDASBgNVBAMT
+C2dhbWVob3N0LmZpMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArFQw
+nqzTL2gzqRi2j+LXh+NNTwuozc7Yks4s5QOyMcNvGXHaGjTVCFvRQpqgs2D3ZgFe
+j4llsY/SoXBRFbBw2Cj/Fviigj61zLlNxQQiVGUIqjcITVO7Yi3pgE3tT0w38nMH
+m3LWXNzC8m0pWgSwRl42wM2+9OtClpCMwmhrF7O6BVbI02u4jEDUipIi/Ig3xBY4
+JceW/sjM8bJ9dpwEzmSPRk2MbzCH4pJlhPWduGq+ju2p17/HqO5H3AqPYSlxrRFH
+DcnZ879FY898MY9DO1RTxheAbmDIL+Y02SSpfSvQRy77GNANNpz8UtNI/5YkXhxg
+WCiM1FufVk1nFEwwJQIDAQABo4IE6jCCBOYwDgYDVR0PAQH/BAQDAgWgMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQW
+BBRPSgtvACHXkq8r3uNeeHG0cFqebTAfBgNVHSMEGDAWgBQULrMXt1hWy65QCUDm
+H6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5v
+LmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3JnLzCC
+ArYGA1UdEQSCAq0wggKpghIqLmFwcHMuZ2FtZWhvc3QuZmmCDyouZGVsZmlpbml0
+LmNvbYIRKi5kZXYuZ2FtZWhvc3QuZmmCECouZWxmdmluZ2NhcnMuZmmCECouZmFi
+dGVjc2hvcC5jb22CESouZmFidGVjc3RvcmUuY29tgg0qLmdhbWVob3N0LmZpgg4q
+LmhhbGxpa2FzLmNvbYINKi5oYWxsaWthcy5maYITKi5oYW5uYWxhaHRpbmVuLmNv
+bYIVKi5ob3N0aW5nLmdhbWVob3N0LmZpghYqLmhvc3RpbmcuaGFsbGlrYXMuY29t
+ghUqLmhvc3RpbmcuaGFsbGlrYXMuZmmCCSoua2FodS5maYILKi5saXVza2kuZmmC
+DioubWFubmlzZXQuY29tggwqLm1wcHJpbWEuZmmCDCoubmV0bm91eC5maYINKi5v
+bm5ldGFyLmNvbYIPKi5wYXVsYXJhbnRhLmZpghEqLnJlY3ljbGVwaG9uZS5maYIY
+Ki5yZWN5Y2xlcGhvbmVmaW5sYW5kLmZpgggqLnJwZi5maYIJKi55a2t5LmZpgg1k
+ZWxmaWluaXQuY29tgg5lbGZ2aW5nY2Fycy5maYIOZmFidGVjc2hvcC5jb22CD2Zh
+YnRlY3N0b3JlLmNvbYILZ2FtZWhvc3QuZmmCDGhhbGxpa2FzLmNvbYILaGFsbGlr
+YXMuZmmCEWhhbm5hbGFodGluZW4uY29tggdrYWh1LmZpgglsaXVza2kuZmmCDG1h
+bm5pc2V0LmNvbYIKbXBwcmltYS5maYIKbmV0bm91eC5maYILb25uZXRhci5jb22C
+DXBhdWxhcmFudGEuZmmCD3JlY3ljbGVwaG9uZS5maYIWcmVjeWNsZXBob25lZmlu
+bGFuZC5maYIGcnBmLmZpggd5a2t5LmZpMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcG
+CysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5
+cHQub3JnMIIBBgYKKwYBBAHWeQIEAgSB9wSB9ADyAHcA36Veq2iCTx9sre64X04+
+WurNohKkal6OOxLAIERcKnMAAAF9xcwodgAABAMASDBGAiEAvbYU8ndwb1gb1knQ
+nmWOlPDy+zSBJ/lHyIXrFy3nehECIQCak/4f8smp1PnYJoNtcZfMZewMDfY7/2rb
+FD/dfBybMwB3ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABfcXM
+KH0AAAQDAEgwRgIhANgEXUkCp0nDjjKsfTf6q7s8muzkzALK+QmUB/lKTLw3AiEA
++quoxOqch58gjCdz7HFZYpdJsF2ikznEC1QipUFdhIgwDQYJKoZIhvcNAQELBQAD
+ggEBAFnMaS4R7c4CzeV3tlbPE1Uxtjn6Bi00xCUVobnIaLFAvGpOqN+FzK6spUtM
+NKZSoU9KIGKodBczkmdKhZXfw5HfInKBo4YV7LGt3whE3UH6ODNC43g+qV6buneH
+5C5jBIZtYV145V+fuF1GkvFAIXS/797PRNugMLXBmsIMv7W2EAWVvSYbz0W/FCVA
+h6tCMowA5g4w8h30hMh/iB1bMEGZFLOAi5NlDtbiZaqJu3xGjbTiYtJVsC6Ck4I8
+v+CU0ZX6PMdYpr8mdxKDX4VxpTshftaHgAgYMwOVSjdH9KueHUVFfNZjSfZRpb9m
+zcZl05YqRuJwpu61GIAfWFw/SHo=
+-----END CERTIFICATE-----
+---
+Server certificate
+subject=CN = gamehost.fi
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2528 bytes and written 381 bytes
+Verification error: unable to verify the first certificate
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 21 (unable to verify the first certificate)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: EE216B4E2B7DCF6CE1ED816067E6FF4919318AE1B42B52C36F4A0CD7959ED0EC
+    Session-ID-ctx: 
+    Resumption PSK: 59778F4FB111475AFF2E019229242EC17B6C9722AFEFADD4F7860C76F3A800CE
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 604800 (seconds)
+    TLS session ticket:
+    0000 - 13 d0 95 0b cc c2 15 b4-a9 2a 1f 37 cf 20 48 e4   .........*.7. H.
+    0010 - 7d f2 bd a1 ca 75 a6 5c-5c 3a 9d ac 70 ae 3d f8   }....u.\\:..p.=.
+    0020 - 6c 00 69 b4 f6 6b 3f 8c-55 27 6f 53 93 2d 05 39   l.i..k?.U'oS.-.9
+    0030 - b9 34 cd e0 bf 92 44 de-20 e9 d7 00 22 5b 82 6f   .4....D. ..."[.o
+    0040 - fb 0e 62 49 ba 16 a6 a3-80 cd 6e b4 09 6c 0a 7f   ..bI......n..l..
+    0050 - f5 17 43 12 74 97 69 f3-ec e9 c2 66 ba c9 72 3e   ..C.t.i....f..r>
+    0060 - 67 db 05 0e 8c 91 76 32-33 3a a0 21 cd 89 ef 47   g.....v23:.!...G
+    0070 - c7                                                .
+
+    Start Time: 1644186471
+    Timeout   : 7200 (sec)
+    Verify return code: 21 (unable to verify the first certificate)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK
